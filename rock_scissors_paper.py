@@ -12,12 +12,12 @@ root.configure(background="#9b59b6")
 
 
 # picture
-rock_img = ImageTk.PhotoImage(Image.open("rock-user.png"))
-paper_img = ImageTk.PhotoImage(Image.open("paper-user.png"))
-scissors_img = ImageTk.PhotoImage(Image.open("scissors-user.png"))
-rock_img_comp = ImageTk.PhotoImage(Image.open("rock.png"))
-scissors_img_comp = ImageTk.PhotoImage(Image.open("scissors.png"))
-paper_img_comp = ImageTk.PhotoImage(Image.open("paper.png"))
+rock_img = ImageTk.PhotoImage(Image.open("images/rock-user.png"))
+paper_img = ImageTk.PhotoImage(Image.open("images/paper-user.png"))
+scissors_img = ImageTk.PhotoImage(Image.open("images/scissors-user.png"))
+rock_img_comp = ImageTk.PhotoImage(Image.open("images/rock.png"))
+scissors_img_comp = ImageTk.PhotoImage(Image.open("images/scissors.png"))
+paper_img_comp = ImageTk.PhotoImage(Image.open("images/paper.png"))
 
 
 # insert picture
